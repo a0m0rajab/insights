@@ -5,7 +5,7 @@
   <strong>The site provides insights to Open Source projects.</strong>
 </div>
 <br>
-
+we have AI features horay! 
 ## 🖼️ Project Figma
 
 The figma for this project can be found [here](https://www.figma.com/file/OpVX6WT7dmWqnwRuEvADMF/OpenSauced-%E2%80%94-Insights-(insights.opensauced.pizza)).
